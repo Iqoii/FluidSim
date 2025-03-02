@@ -1,5 +1,7 @@
 # FluidSim
-Some fluid simulation stuff I've worked on for fun about a year ago (March/April 2024).
+Some fluid simulation stuff I've worked on for fun about a year ago (March/April 2024). 
+
+DISCLAIMER: You need pygame, sys and math (pygame is the only none standard I think) to run this.
 
 This project is a 2D fluid simulation implemented using Python and Pygame. It simulates the behavior of fluid particles using a simplified version of the Smoothed Particle Hydrodynamics (SPH) method. 
 
