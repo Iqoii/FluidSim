@@ -1,5 +1,5 @@
 # FluidSim
-Some fluid simulation stuff I've worked on for fun about a year ago (March/April 2024). 
+Some fluid simulation stuff I've worked on for fun about a year ago (March/April 2024). Really difficult stuff actually, I still have nightmares with the Navier-Stokes equations.
 
 DISCLAIMER: You need pygame, sys and math (pygame is the only none standard I think) to run this.
 
