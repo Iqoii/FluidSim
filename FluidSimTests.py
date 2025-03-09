@@ -245,7 +245,7 @@ def convertDensityToPressure(density):
 
 running = True
 mouse_pressed = False
-stop = True
+stop = False
 
 while running:
     # Handle events
